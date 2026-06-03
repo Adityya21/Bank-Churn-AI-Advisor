@@ -1,0 +1,8 @@
+# SHAP plots are saved here when running the explainability notebook.
+# shap_beeswarm.png
+# shap_importance.png
+# shap_waterfall_high_risk.png
+# shap_waterfall_low_risk.png
+# shap_dependence_age.png
+# shap_dependence_balance.png
+# shap_dependence_products.png
