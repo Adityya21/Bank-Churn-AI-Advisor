@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🏦 Bank Customer Churn Prediction</h1>
+<h1>🏦 Bank Customer Churn Prediction + AI Retention Advisor</h1>
 <h3>Predict who's leaving. Understand why. Retain them with AI.</h3>
 
 <p>
